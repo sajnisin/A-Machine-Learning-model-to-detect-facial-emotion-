@@ -1,19 +1,19 @@
 # MoodVision: A Machine Learning model to detect the facial emotion of people and track their mental health  
 ## Facial Expression detection
-###STEPS
+### STEPS
 -DATA SET:Learn facial expressions from an image
           https://www.kaggle.com/datasets/msambare/fer2013
  
 Data Augmentation 
 EDA
 
-####Models explored 
+#### Models explored 
 1.CNN
 2.VGG16
 3.RESNET50
 
 
-###Contributors
+### Contributors
 1.Hui Min Jiao
 2.Luo Yang
 3.Nisin Saj
