@@ -14,7 +14,7 @@ EDA
 
 
 ### Contributors
-1.Hui Min Jiao
+1.Hui Ming Jiao
 2.Luo Yang
 3.Nisin Saj
 4.Russel Quah
