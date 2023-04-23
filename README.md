@@ -8,8 +8,8 @@ Data Augmentation
 EDA
 
 #### Models explored 
-1.CNN
-2.VGG16
+1.EDA
+2. VGG16 a CNN model with LIME interpration 
 3.RESNET50
 
 
